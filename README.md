@@ -1,12 +1,17 @@
-# React + Vite
+✨ Testimonial Slider App ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React-based testimonial slider 📜 that fetches data from an API 🌐 and allows users to explore different testimonials. It comes with:
 
-Currently, two official plugins are available:
+➡️ Forward and Back buttons to smoothly navigate through the testimonials.
+🎲 Surprise Me button to instantly show a random testimonial for fun and variety.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built using React Hooks ⚛️, especially the useState hook to manage and update the active testimonial dynamically.
 
-## Expanding the ESLint configuration
+🚀 A simple, interactive, and beginner-friendly project to practice React + API integration!
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🛠️ Tech Stack:
+⚛️ React – For building the UI
+🎨 Tailwind CSS – For styling (if you used it, else we can remove this)
+🌐 API Fetching – To get testimonials dynamically
+🪝 React Hooks (useState) – For state management
